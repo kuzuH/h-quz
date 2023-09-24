@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+  margin: 0 auto;
+}
