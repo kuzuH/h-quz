@@ -1,20 +1,23 @@
 body {
   background-color: black;
   color: white;
+  font-family: 'Blanka', sans-serif;
 }
 
 h1 {
   font-size: 50px;
   text-align: center;
+  font-family: 'Blanka', sans-serif;
 }
 
 p {
   font-size: 20px;
   text-align: center;
+  font-family: 'Blanka', sans-serif;
 }
 
 .logo {
   height: 100px;
   width: 100px;
-  margin: 0 auto;
+  margin: 50 auto;
 }
